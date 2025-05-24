@@ -23,5 +23,5 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: 24f3000061@ds.study.iitm.ac.in1
+      - name: abc
         run: echo "Hello, world!"
